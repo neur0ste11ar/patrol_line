@@ -6,3 +6,5 @@ patrolling with binarized images
   
 real-time detection and classification of circular objects within a specific color range from a video stream, using a convolution network model
 ![image](https://github.com/neur0ste11ar/patrol_line/blob/main/906fga674d2.png)  
+
+![image](https://github.com/neur0ste11ar/patrol_line/blob/main/d09791a47ed6c76ebe4de54e6e3d4820.gif)
